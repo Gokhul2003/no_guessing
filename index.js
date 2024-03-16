@@ -21,7 +21,7 @@ let playGame=true
 
 function validateGuess(guess)
 {
-    
+    console.log("will do it tommorw")
 }
 
 function checkGuess(guess)
@@ -45,6 +45,6 @@ function newGame()
 
 function endGame()
 {
-    
+
 }
 
